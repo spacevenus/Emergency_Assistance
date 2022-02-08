@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/viewHospitals"
+        android:title="@string/HOSPITALS">
+    </item>
+    <item
+        android:id="@+id/viewPolice"
+        android:title="@string/POLICE_STATIONS">
+    </item>
+
+
+    <item
+        android:id="@+id/fakeCall"
+        android:title="@string/FAKE_CALL">
+    </item>
+
+    <item
+        android:id="@+id/firstaid"
+        android:title="@string/FIRST_AID">
+    </item>
+    <item
+        android:id="@+id/manual"
+        android:title="@string/SELFDEFENSE_MANUAL">
+    </item>
+
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/LOGOUT">
+    </item>
+</menu>
